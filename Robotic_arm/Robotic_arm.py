@@ -3,7 +3,7 @@ import mediapipe as mp
 import numpy as np
 import time
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D  # 虽然不直接使用，但需要激活 3D 投影
+from mpl_toolkits.mplot3d import Axes3D  # switch to 3D
 
 # ---------------------------
 # initialize MediaPipe Pose
